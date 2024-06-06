@@ -62,7 +62,7 @@ Yutong Feng
 **Yutong Feng**, Qiongyan Wang, Yutong Xia, Junlin Huang, Siru Zhong, Yuxuan Liang<sup>*</sup>
 
 [**Project**](https://github.com/Yutong-Feng/STFNN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Code of STFNN, including dataloader, model architecture and trainer. 
 </div>
 </div>
 ## Content
