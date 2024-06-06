@@ -59,7 +59,7 @@ Yutong Feng
 <!-- [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://github.com/Yutong-Feng/STFNN)
 
-**Yutong Feng**, Qiongyan Wang, Yutong Xia, Junlin Huang, Siru Zhong, Yuxuan Liang<sub>*</sub>
+**Yutong Feng**, Qiongyan Wang, Yutong Xia, Junlin Huang, Siru Zhong, Yuxuan Liang<sup>*</sup>
 
 [**Project**](https://github.com/Yutong-Feng/STFNN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -81,7 +81,7 @@ Yutong Feng
 
 # 💬 Invited Talks
 Undergraduate Period
-- *2023.02*, Interviews with National Scholarship Recipients: Being a Romantic Idealist in New Engineering \| [\[WeChat link\]](https://mp.weixin.qq.com/s/eu2_h2CDONGbITEn7rrEkQ).
+- *2023.02*, Interviews with National Scholarship Recipients: Being a Romantic Idealist in Emerging Engineering Education \| [\[WeChat link\]](https://mp.weixin.qq.com/s/eu2_h2CDONGbITEn7rrEkQ).
 - *2021.06*, What do Students Say \| How to do Research in Microelectronics? Discover the IC Innovation Lab \| [\[WeChat link\]](https://mp.weixin.qq.com/s/Nzmku8n-dgqVVH4w2eIPcA). 
 
 
