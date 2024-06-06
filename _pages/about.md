@@ -44,7 +44,7 @@ Yutong Feng
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 My first work in academia, Spatio-Temporal Field Neural Networks, was successfully accepted by IJCAI2024🥳!
-- *2024.04*: &nbsp;🎉🎉 Our EdgeBrain (with Xinghai IoT) project won the Silver Medal at International Exhibition of Inventions Geneva!
+- *2024.04*: &nbsp;🎉🎉 Our EdgeBrain (with Xinghai IoT) project won the Silver Medal🥈 at International Exhibition of Inventions Geneva!
 - *2023.09*: &nbsp;🎉🎉 I enrolled at the Hong Kong University of Science and Technology (Guangzhou) and became a MPhil student. 
 - *2023.09*: &nbsp;🎉🎉 I graduated from the South China University of Technology👨‍🎓.
 - *2022.10*: &nbsp;🎉🎉 I won the National Scholarship, which was my dream for three years at university😭.
@@ -73,7 +73,7 @@ Yutong Feng
 - *2024.04* Silver Medal at International Exhibition of Inventions Geneva.
 - *2023.06* Outstanding Graduate of Junde College.
 - *2022.10* National Scholarship (Top 1%, Ranking 1/58).
-- *2022.07* First Class Scholarship for Scientific and Technological Innovations by "Hong Ping Chang Qing" Foundation(宏平长青基金).
+- *2022.07* First Class Scholarship for Scientific and Technological Innovations by "Hong Ping Chang Qing" Foundation (宏平长青基金).
 - *2021.10* First Class Scholarship at the School Level (Top 10%, Ranking 5/58).
 
 # 📖 Educations
