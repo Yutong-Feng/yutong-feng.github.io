@@ -63,6 +63,7 @@ Yutong Feng
 
 [**Project**](https://github.com/Yutong-Feng/STFNN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Code of STFNN, including dataloader, model architecture and trainer. 
+- Experiment Setting: PyTorch 2.1.0, 12 vCPU Intel(R) Xeon(R) Platinum 8352V CPUs clocked at 2.10GHz, NVIDIA's RTX4090 GPU.
 </div>
 </div>
 ## Content
