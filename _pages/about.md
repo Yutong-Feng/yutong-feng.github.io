@@ -26,13 +26,13 @@ Greetings! I am **Yutong Feng (冯雨橦)**, a dedicated researcher passionate a
 My academic journey began at the [**Guangzhou International Campus**](https://www2.scut.edu.cn/gzic/) of [**South China University of Technology (SCUT)**](https://www.scut.edu.cn/new/), where I studied [**Microelectronics**](https://www2.scut.edu.cn/microelectronics/main.htm) at [**Junde College (峻德书院)**](https://www2.scut.edu.cn/jdsy/main.htm). This formative experience equipped me with extensive knowledge in **Signal and System**, **Digital Signal Processing**, **Electromagnetic Analysis** (with a focus on **Vector Field Theory**), and **Digital Integrated Chip Design**, providing me with unique insights and expertise that I bring to the field of data science research.
 
 My research interests orbit around the fusion of 
-- **Spatio-Temporal Data Mining**, i.e., utilizing of network architectures such as STGNN, Transformer or other advanced network architectures to identify the spatial and temporal dependencies between data, thereby facilitating more effective solutions to problems such as urban development, resource scheduling or scientific discovery.
+- **Spatio-Temporal Data Mining**, i.e., utilizing of network architectures such as STGNN, Transformer or other advanced network architectures to identify the spatial and temporal dependencies between data, thereby facilitating more effective solutions to problems such as urban development, resource scheduling and scientific discovery.
 - **Time Series Analysis**. My principal research interests lie in the fields of uncertainty estimation and the development of foundation models for multivariate time series.
 - **Vector Database**, i.e., addressing the challenge of efficiently storing, indexing, and querying high-dimensional vector data, which is critical for applications like similarity search in large-scale spatio-temporal datasets. My research interest is in the development of models with reduced computational complexity and the capacity to handle larger data volumes (Database4AI). This approach has the potential to reduce training time and enhance inference efficiency.
 
 <!-- My fervor lies in exploring innovative methodologies within these realms, seeking to unravel the complex interplay between data, cities, and technological advancements. -->
 
-My aim is to leverage my multidisciplinary knowledge and skills to contribute meaningfully to the evolving landscape of data science, particularly in addressing challenges within urban environments. Through my academic pursuits, I endeavor to unravel complexities, forge connections between data points, and pioneer solutions that positively impact urban societies.
+<!-- My aim is to leverage my multidisciplinary knowledge and skills to contribute meaningfully to the evolving landscape of data science, particularly in addressing challenges within urban environments. Through my academic pursuits, I endeavor to unravel complexities, forge connections between data points, and pioneer solutions that positively impact urban societies. -->
 
 This website serves as a platform to share my academic endeavors, research contributions, and thoughts on the evolving domain of data-driven urban studies. I invite you to explore my work and insights as I navigate through the exciting realms of data science and its transformative potential within urban contexts.
 
@@ -50,7 +50,7 @@ Yutong Feng
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 My first work in academia, Spatio-Temporal Field Neural Networks, was successfully accepted by IJCAI2024🥳!
 - *2024.04*: &nbsp;🎉🎉 Our EdgeBrain (with Xinghai IoT) project won the Silver Medal🥈 at International Exhibition of Inventions Geneva!
-- *2023.09*: &nbsp;🎉🎉 I enrolled at the Hong Kong University of Science and Technology (Guangzhou) and became a MPhil student. 
+- *2023.09*: &nbsp;🎉🎉 I enrolled at the Hong Kong University of Science and Technology (Guangzhou) and became a MPhil student🧐. 
 - *2023.09*: &nbsp;🎉🎉 I graduated from the South China University of Technology👨‍🎓.
 - *2022.10*: &nbsp;🎉🎉 I won the National Scholarship, which was my dream for three years at university😭.
 
