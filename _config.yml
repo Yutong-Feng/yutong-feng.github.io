@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yutong Feng"
-description              : "MPhil candidate specializing in Data Science & Analytics, with research interests in Urban Computing, Spatio-Temporal Data Mining and Federated Learning."
+description              : "MPhil candidate specializing in Data Science & Analytics, with research interests in Spatio-Temporal Data Mining, Time Series and Vector Database."
 repository               : "Yutong-Feng/yutong-feng.github.io"
 google_scholar_stats_use_cdn : true
 

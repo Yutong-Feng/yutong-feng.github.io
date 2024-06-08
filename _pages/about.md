@@ -25,7 +25,12 @@ Greetings! I am **Yutong Feng (冯雨橦)**, a dedicated researcher passionate a
 
 My academic journey began at the [**Guangzhou International Campus**](https://www2.scut.edu.cn/gzic/) of [**South China University of Technology (SCUT)**](https://www.scut.edu.cn/new/), where I studied [**Microelectronics**](https://www2.scut.edu.cn/microelectronics/main.htm) at [**Junde College (峻德书院)**](https://www2.scut.edu.cn/jdsy/main.htm). This formative experience equipped me with extensive knowledge in **Signal and System**, **Digital Signal Processing**, **Electromagnetic Analysis** (with a focus on **Vector Field Theory**), and **Digital Integrated Chip Design**, providing me with unique insights and expertise that I bring to the field of data science research.
 
-My research interests orbit around the fusion of Urban Computing, Spatio-Temporal Data Mining, Federated Learning, and the application of Data-Driven Urban Governance. My fervor lies in exploring innovative methodologies within these realms, seeking to unravel the complex interplay between data, cities, and technological advancements.
+My research interests orbit around the fusion of 
+- **Spatio-Temporal Data Mining**, i.e., utilizing of network architectures such as STGNN, Transformer or other advanced network architectures to identify the spatial and temporal dependencies between data, thereby facilitating more effective solutions to problems such as urban development, resource scheduling or scientific discovery.
+- **Time Series Analysis**. My principal research interests lie in the fields of uncertainty estimation and the development of foundation models for multivariate time series.
+- **Vector Database**, i.e., addressing the challenge of efficiently storing, indexing, and querying high-dimensional vector data, which is critical for applications like similarity search in large-scale spatio-temporal datasets. My research interest is in the development of models with reduced computational complexity and the capacity to handle larger data volumes (Database4AI). This approach has the potential to reduce training time and enhance inference efficiency.
+
+<!-- My fervor lies in exploring innovative methodologies within these realms, seeking to unravel the complex interplay between data, cities, and technological advancements. -->
 
 My aim is to leverage my multidisciplinary knowledge and skills to contribute meaningfully to the evolving landscape of data science, particularly in addressing challenges within urban environments. Through my academic pursuits, I endeavor to unravel complexities, forge connections between data points, and pioneer solutions that positively impact urban societies.
 
@@ -57,7 +62,7 @@ Yutong Feng
 🎂 **My First Publication in Academia!** 🥳
 
 <!-- [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-[Spatio-Temporal Field Neural Networks for Air Quality Inference](https://github.com/Yutong-Feng/STFNN)
+[Spatio-Temporal Field Neural Networks for Air Quality Inference](https://arxiv.org/pdf/2403.02354)
 
 **Yutong Feng**, Qiongyan Wang, Yutong Xia, Junlin Huang, Siru Zhong, Yuxuan Liang<sup>*</sup>
 
@@ -67,7 +72,7 @@ Yutong Feng
 </div>
 </div>
 ## Content
-- [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://github.com), **IJCAI 2024**
+- [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://arxiv.org/pdf/2403.02354), **IJCAI 2024**
 
 # 🏆 Honors and Awards
 - *2024.04* Silver Medal at International Exhibition of Inventions Geneva.
