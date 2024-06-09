@@ -85,6 +85,10 @@ Yutong Feng
 - *2023.09 - Present*, Master of Philosophy, Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, Bachelor of Engineering in Microelectronics, Junde College, South China University of Technology. 
 
+# ♟️ Competitions
+- 2023.05 Alibaba Tianchi Competition, Social Graph Link Prediction (Rare Scenario Track), Ranking 39/755 (Top 5.17%). | Link:(CAAI-BDSC2023)[https://tianchi.aliyun.com/competition/entrance/532073/introduction?spm=a2c22.12281925.0.0.1e3a7137rEj9cw]
+- 2022.02 Meritorious Price (Top 6.61%) in The Mathematical Contest in Modeling (MCM).
+
 # 💬 Invited Talks
 Undergraduate Period
 - *2023.02*, Interviews with National Scholarship Recipients: Being a Romantic Idealist in Emerging Engineering Education \| [\[WeChat link\]](https://mp.weixin.qq.com/s/eu2_h2CDONGbITEn7rrEkQ).
