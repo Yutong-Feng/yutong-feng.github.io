@@ -85,8 +85,8 @@ Yutong Feng
 - *2023.09 - Present*, Master of Philosophy, Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, Bachelor of Engineering in Microelectronics, Junde College, South China University of Technology. 
 
-# ♟️ Competitions 
 <span class='anchor' id='competitions'></span>
+# ♟️ Competitions 
 - 2023.05 Alibaba Tianchi Competition, Social Graph Link Prediction ([Rare Scenario Track](https://tianchi.aliyun.com/competition/entrance/532073/introduction?spm=a2c22.12281925.0.0.1e3a7137rEj9cw)), Ranking 39/755 (Top 5.17%).
 - 2022.02 Meritorious Price (Top 6.61%) in the Mathematical Contest in Modeling (MCM).
 
@@ -96,8 +96,8 @@ Undergraduate Period
 - *2021.06*, What do Students Say \| How to do Research in Microelectronics? Discover the IC Innovation Lab \| [\[WeChat link\]](https://mp.weixin.qq.com/s/Nzmku8n-dgqVVH4w2eIPcA). 
 
 
-# 🛠️ Projects 
 <span class='anchor' id='projects'></span>
+# 🛠️ Projects 
 ## UrbanNeXus:Advancing Cities through Intelligence & Innovation 
 ### Abstract
 Urbanization has been a key aspect of societal development, leading us to an era where cities act as centers of innovation, culture, and opportunity. However, modern urban areas face complex challenges related to sustainability, data management, and citizen privacy. Conventional city infrastructures often struggle to utilize data effectively, impeding progress towards intelligent and sustainable urban ecosystems.
