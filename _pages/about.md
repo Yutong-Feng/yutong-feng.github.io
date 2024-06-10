@@ -48,7 +48,7 @@ Yutong Feng
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 My first work in academia, Spatio-Temporal Field Neural Networks, was successfully accepted by IJCAI2024🥳!
+- *2024.05*: &nbsp;🎉🎉 My first work in academia, Spatio-Temporal Field Neural Networks, was successfully accepted by IJCAI 2024🥳!
 - *2024.04*: &nbsp;🎉🎉 Our EdgeBrain (with Xinghai IoT) project won the Silver Medal🥈 at International Exhibition of Inventions Geneva!
 - *2023.09*: &nbsp;🎉🎉 I enrolled at the Hong Kong University of Science and Technology (Guangzhou) and became a MPhil student🧐. 
 - *2023.09*: &nbsp;🎉🎉 I graduated from the South China University of Technology👨‍🎓.
