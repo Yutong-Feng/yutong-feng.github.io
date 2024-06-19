@@ -96,7 +96,7 @@ Undergraduate Period
 - *2021.06*, What do Students Say \| How to do Research in Microelectronics? Discover the IC Innovation Lab \| [\[WeChat link\]](https://mp.weixin.qq.com/s/Nzmku8n-dgqVVH4w2eIPcA). 
 
 
-<span class='anchor' id='projects'></span>
+<!-- <span class='anchor' id='projects'></span>
 # 🛠️ Projects 
 ## UrbanNeXus:Advancing Cities through Intelligence & Innovation 
 ### Abstract
@@ -106,7 +106,7 @@ The **UrbanNeXus (UNX)** project is a response to pressing urban challenges. It 
 
 UrbanNeXus is a full-stack system that synergistically enhances urban sustainability, intelligence, and privacy. By seamlessly integrating these layers, UrbanNeXus aims to be the cornerstone of next-generation cities, fostering innovation and resilience in urban environments.
 ### Details
-Will be updated soon ...
+Will be updated soon ... -->
 
 # 💻 Internships
 Undergraduate Period 

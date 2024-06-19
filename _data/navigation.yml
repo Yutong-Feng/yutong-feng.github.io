@@ -21,8 +21,8 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Projects"
-    url: "/#projects"
+  # - title: "Projects"
+  #   url: "/#projects"
 
   - title: "Internships"
     url: "/#-internships"
