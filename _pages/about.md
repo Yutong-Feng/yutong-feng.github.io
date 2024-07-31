@@ -76,7 +76,7 @@ Yutong Feng
 
 # 🏆 Honors and Awards
 - *2024.04* Silver Medal at International Exhibition of Inventions Geneva.
-- *2023.06* Outstanding Graduate of Junde College.
+- *2023.06* Outstanding Graduate of Junde College, South China University of Technology.
 - *2022.10* National Scholarship (Top 1%, Ranking 1/58).
 - *2022.07* First Class Scholarship for Scientific and Technological Innovations by "Hong Ping Chang Qing" Foundation (宏平长青基金).
 - *2021.10* First Class Scholarship at the School Level (Top 10%, Ranking 5/58).
