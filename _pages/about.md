@@ -81,12 +81,12 @@ Yutong Feng
 - *2022.07* First Class Scholarship for Scientific and Technological Innovations by "Hong Ping Chang Qing" Foundation (宏平长青基金).
 - *2021.10* First Class Scholarship at the School Level (Top 10%, Ranking 5/58).
 
-# 📖 Educations
+# 🎓 Educations
 - *2023.09 - Present*, Master of Philosophy, Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, Bachelor of Engineering in Microelectronics, Junde College, South China University of Technology. 
 
 <span class='anchor' id='competitions'></span>
-# ♟️ Competitions 
+# 🎯 Competitions 
 - 2023.05 Alibaba Tianchi Competition, Social Graph Link Prediction ([Rare Scenario Track](https://tianchi.aliyun.com/competition/entrance/532073/introduction?spm=a2c22.12281925.0.0.1e3a7137rEj9cw)), Ranking 39/755 (Top 5.17%).
 - 2022.02 Meritorious Price (Top 6.61%) in the Mathematical Contest in Modeling (MCM).
 
@@ -108,7 +108,7 @@ UrbanNeXus is a full-stack system that synergistically enhances urban sustainabi
 ### Details
 Will be updated soon ... -->
 
-# 💻 Internships
+# 🗂️ Internships
 Undergraduate Period 
 - *2023.03 - 2023.08*, Research Assistant at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangzhou, China.
 - *2022.12 - 2023.01*, Big Data Engineer at [VPHONOR Information Technology Co.](https://www.vphonor.com/), Shenzhen, China.
