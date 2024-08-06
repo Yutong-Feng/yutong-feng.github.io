@@ -31,12 +31,10 @@ My research interests orbit around the fusion of:
 - **Vector Database**, i.e., addressing the challenge of efficiently storing, indexing, and querying high-dimensional vector data, which is critical for applications like similarity search in large-scale spatio-temporal datasets. My research interest is in the development of models with reduced computational complexity and the capacity to handle larger data volumes (Database4AI). This approach has the potential to reduce training time and enhance inference efficiency.
 
 <!-- My fervor lies in exploring innovative methodologies within these realms, seeking to unravel the complex interplay between data, cities, and technological advancements. -->
-
+---
 <!-- My aim is to leverage my multidisciplinary knowledge and skills to contribute meaningfully to the evolving landscape of data science, particularly in addressing challenges within urban environments. Through my academic pursuits, I endeavor to unravel complexities, forge connections between data points, and pioneer solutions that positively impact urban societies. -->
 
-This website serves as a platform to share my academic endeavors, research contributions, and thoughts on the evolving domain of data-driven urban studies. I invite you to explore my work and insights as I navigate through the exciting realms of data science and its transformative potential within urban contexts.
-
-Thank you for visiting, and I look forward to engaging with you on this academic journey.
+This website serves as a platform to share my academic endeavors, research contributions, and thoughts on the evolving domain of data-driven urban studies. Thank you for visiting, and I look forward to engaging with you on this academic journey.
 
 Warm regards,
 
@@ -45,7 +43,7 @@ Yutong Feng
 > "Toda mi ambición es ser libre toda mi vida"
 >
 > “自由一生，是我全部的野心”
-
+<!--I invite you to explore my work and insights as I navigate through the exciting realms of data science and its transformative potential within urban contexts.-->
 <!--![my photo](images/photo.jpg){:height="75%" width="75%"} -->
 
 <!--  My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
