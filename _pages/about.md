@@ -90,7 +90,8 @@ Yutong Feng
 <span class='anchor' id='competitions'></span>
 # 🎯 Competitions 
 - 2023.05 Alibaba Tianchi Competition, Social Graph Link Prediction ([Rare Scenario Track](https://tianchi.aliyun.com/competition/entrance/532073/introduction?spm=a2c22.12281925.0.0.1e3a7137rEj9cw)), Ranking 39/755 (Top 5.17%).
-- 2022.02 Meritorious Price (Top 6.61%) in the Mathematical Contest in Modeling (MCM).
+- 2022.05 Meritorious Price (Top 6.61%) in the Mathematical Contest in Modeling (MCM).
+- 2022.01 First Price (Top 5%) in the Asia and Pacific Mathematical Contest in Modeling (APMCM).
 
 # 💬 Invited Talks
 Undergraduate Period
