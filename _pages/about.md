@@ -84,7 +84,7 @@ Yutong Feng
 - *2021.10* First Class Scholarship at the School Level (Top 10%, Ranking 5/58).
 
 # 🎓 Educations
-- *2023.09 - Present*, Master of Philosophy, Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou). 
+- *2023.09 - Present*, Master of Philosophy in Data Science and Analytics, Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, Bachelor of Engineering in Microelectronics, Junde College, South China University of Technology. 
 
 <span class='anchor' id='competitions'></span>
