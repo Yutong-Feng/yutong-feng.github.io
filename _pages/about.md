@@ -119,7 +119,7 @@ Undergraduate Period
 - *2021.01 - 2021.02*, Hardware Engineer at [XINGHAI IOT Technology Co.](https://xh-iot.net/), Shenzhen, China.
 
 <span class='anchor' id='services'></span>
-# ⚖️ Services
+# 🛎️ Services
 Postgraduate Period
 - Reviewer of SIGSPATIAL 2024
 
