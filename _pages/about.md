@@ -111,8 +111,19 @@ UrbanNeXus is a full-stack system that synergistically enhances urban sustainabi
 ### Details
 Will be updated soon ... -->
 
+<span class='anchor' id='internships'></span>
 # 🗂️ Internships
 Undergraduate Period 
 - *2023.03 - 2023.08*, Research Assistant at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangzhou, China.
 - *2022.12 - 2023.01*, Big Data Engineer at [VPHONOR Information Technology Co.](https://www.vphonor.com/), Shenzhen, China.
 - *2021.01 - 2021.02*, Hardware Engineer at [XINGHAI IOT Technology Co.](https://xh-iot.net/), Shenzhen, China.
+
+<span class='anchor' id='services'></span>
+# ⚖️ Services
+Postgraduate Period
+- Reviewer of SIGSPATIAL 2024
+Undergraduate Period
+- Head of the Academic Department of the Student Union, Junde College, South China University of Technology
+- Head of Digital Technology Department, Microelectronics Association in South China University of Technology
+
+
